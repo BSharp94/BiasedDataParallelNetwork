@@ -10,7 +10,7 @@ import torchvision.transforms as transforms
 from random import Random
 
 WORLD_SIZE = 2
-NUM_EPOCHS = 2
+NUM_EPOCHS = 50
 TRAINING_RECORD_INTERVAL = 25
 
 class Partition(object):
