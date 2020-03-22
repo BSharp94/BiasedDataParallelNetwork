@@ -1,5 +1,5 @@
-.ipynb_checkpoints/
-data/
+*.ipynb_checkpoints*
+*.vscode*
+*.npy*
+*.pt*
 env/
-*.npy
-.vscode
